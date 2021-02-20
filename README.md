@@ -1,1 +1,1 @@
-# GPU-B-Tree
+# GPU B+Tree
